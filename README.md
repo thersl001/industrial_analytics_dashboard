@@ -1,13 +1,13 @@
-# Industrial Analytics Dashboard
+# Annual Survey of Industries Dashboard
 
-Welcome to the **Industrial Analytics Dashboard** repository! 🚀  
+Welcome to the **Annual Survey of Industries Dashboard** repository! 🚀  
 An interactive Power BI dashboard analyzing India's industrial landscape based on factory count across states and industries from 2008–2023.
 
 ---
 
 ## 📂 Repository Structure
 ```
-industrial_analytics_dashboard/
+annual_survey_of_industries_dashboard/
 │
 ├── datasets/                           # Raw datasets used for the project
 │
